@@ -1,0 +1,11 @@
+=====================
+= Maiara C. Gobo ====
+=====================
+
+
+tenha:
+Python
+VS Code
+
+instale:
+PySimpleGUI (pelo cmd, comando: pip install pysimplegui)
